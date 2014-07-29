@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-public class hw5 {
+public class TSP {
 	
 	public static void main(String args[]){
 		long start = System.currentTimeMillis();
